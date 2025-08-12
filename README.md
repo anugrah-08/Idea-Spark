@@ -1,7 +1,5 @@
 # 💡 IdeaSpark – AI-Powered Content Idea Generator
 
-![IdeaSpark Banner](https://your-banner-image-url-if-any)
-
 **Live Demo:** [https://idea-spark-five.vercel.app/](https://idea-spark-five.vercel.app/)  
 **Built with:** V0 AI, Spline 3D, Vercel
 
